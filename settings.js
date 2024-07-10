@@ -17,7 +17,7 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "254723925612",
-  SUDO_NUMBERS : "94715166712,94719574492",
+  SUDO_NUMBERS : "254710468538",
   OWNER_NAME: "『 Antonio Griffo 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -31,8 +31,8 @@ module.exports = {
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
+  TIME_ZONE :  "Africa/Nairobi",
+  WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
